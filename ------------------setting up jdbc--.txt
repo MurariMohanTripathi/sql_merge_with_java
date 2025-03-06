@@ -1,0 +1,5 @@
+------------------setting up jdbc---------------------------------
+copy url from MySQL for jdbc
+project the location of connector jar file of java 
+ -->File-->Project Structure -->libraries --> 'plus' option -->select Java -->choose PATH --> click APPLY
+-->then you are good to go click 'OK' and then bang bang 
